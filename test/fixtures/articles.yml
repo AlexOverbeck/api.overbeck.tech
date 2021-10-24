@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  summary: MyText
-  url: MyString
+  title: Article One Title
+  summary: Article One Summary
+  url: https://api.overbeck.tech
 
 two:
-  title: MyString
-  summary: MyText
-  url: MyString
+  title: Article Two Title
+  summary: Article Two Summary
+  url: https://guides.rubyonrails.org/routing.html
